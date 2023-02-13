@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi I'm Jüri! 👋
+
+I am an Android developer living in Boston, Massachusetts. 🍀
+
+I've been in the industry for over 3 years 🎂
+
+I fell in love with video game design when I was younger, which has fruited into a passion for Android development 📱
+
+You can often find me tinkering with various ideas in the android, web, and game space. 🔧
 
 <!--
 **JuriKiin/JuriKiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
