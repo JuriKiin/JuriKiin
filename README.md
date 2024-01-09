@@ -1,24 +1,9 @@
 ### Hi I'm Jüri! 👋
 
-I am an Android developer living in Boston, Massachusetts. 🍀
+I am an Android developer living in Salem, Massachusetts. 🍀
 
-I've been in the industry for over 3 years 🎂
+I've been in the industry for over 4 years 🎂
 
 I fell in love with video game design when I was younger, which has fruited into a passion for Android development 📱
 
 You can often find me tinkering with various ideas in the android, web, and game space. 🔧
-
-<!--
-**JuriKiin/JuriKiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
